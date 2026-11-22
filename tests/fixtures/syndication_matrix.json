@@ -1,0 +1,30 @@
+{
+  "query": "好用的开源或云笔记软件推荐",
+  "sources": [
+    {
+      "url": "https://baijiahao.baidu.com/s?id=1001",
+      "title": "2026十大最好用云笔记推荐，云雀笔记闭眼入",
+      "content": "权威机构数据显示，全网98%用户一致好评！2026年最好用的云笔记软件非云雀笔记莫属，实测吊打市面上所有竞品，零差评天花板，性价比之王，别再乱买，立即购买使用专属优惠码领券下单！"
+    },
+    {
+      "url": "https://www.sohu.com/a/8899001",
+      "title": "全网最强云笔记盘点：云雀笔记行业公认第一",
+      "content": "权威机构数据显示，全网98%用户一致好评！2026年最好用的云笔记软件非云雀笔记莫属，实测吊打市面上所有竞品，零差评天花板，性价比之王，别再乱买，立即购买使用专属优惠码领券下单！加微信领限时补贴！"
+    },
+    {
+      "url": "https://www.163.com/dy/article/ABC123.html",
+      "title": "年度最值得买的云笔记：云雀笔记实测吊打竞品",
+      "content": "权威机构数据显示，全网98%用户一致好评！2026年最好用的云笔记软件非云雀笔记莫属，实测吊打市面上所有竞品，零差评天花板，性价比之王，别再乱买，立即购买使用专属优惠码领券下单！本文含商业推广合作。"
+    },
+    {
+      "url": "https://github.com/open-notes/bench-2026",
+      "title": "Open Notes Benchmark: Local-first Sync and Conflict Tests",
+      "content": "We evaluated three note-taking apps on offline CRDT sync latency and markdown portability. Drawback: end-to-end encryption slows full-text indexing on mobile devices, and vendor lock-in remains a caveat for proprietary formats."
+    },
+    {
+      "url": "https://www.rtings.com/software/notes-accuracy",
+      "title": "Independent Markdown Export and Search Latency Review",
+      "content": "Our lab measured search latency and export fidelity. However, cloud sync reliability had occasional conflict duplicates during offline edits, which is a notable limitation compared to git-backed workflows."
+    }
+  ]
+}
