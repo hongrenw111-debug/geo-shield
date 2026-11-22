@@ -106,6 +106,9 @@ uv run python scripts/interrogate_real.py
 - **Hidden DOM navigation elements**: Legitimate websites with collapsible menus or screen-reader blocks (`display:none` / `opacity:0`) can elevate `hidden_dom_text` / `injection_risk` scores during live HTML auditing.
 - **Paywalls & login-gated sites**: Sites enforcing strict bot/login gates (e.g. `HTTP 403`) cannot be fetched anonymously.
 
-## License
+## License & Commercial Use
 
-[MIT](LICENSE)
+Licensed under the **[PolyForm Noncommercial License 1.0.0](LICENSE)** (`PolyForm-Noncommercial-1.0.0`).
+
+- **Free for personal, academic, research, and noncommercial use.**
+- **Commercial use requires explicit written permission** from the author (`hongrenw111@gmail.com`). Any for-profit product integration, commercial SaaS hosting, or paid skill/marketplace resale is prohibited without a separate commercial license.
