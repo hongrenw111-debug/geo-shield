@@ -6,6 +6,8 @@ GeoShield helps users and AI agents avoid getting "brainwashed" by two modern at
 1. **Covert GEO (Generative Engine Optimization) soft-ads & syndicated PR farms** disguised as neutral rankings or balanced product reviews.
 2. **Indirect prompt injection & AI memory poisoning** hidden in HTML DOM/CSS, Unicode steganography, or *"Summarize with AI"* referral URLs.
 
+> **Commercial License & Turnkey Agent Skill:** Get **[GeoShield Pro on Agensi ($6.99 one-time)](https://agensi.io/skills/geoshield-pro-anti-geo-injection-defense)** — includes a perpetual commercial use license, 5-vertical Anti-GEO industry rule pack, commercial due-diligence SOP, and turnkey `SKILL.md` + MCP bundle for Claude Code, Cursor, Codex CLI, and Antigravity.
+
 ---
 
 ## Architecture (Enforced Deep-Module DAG)
@@ -111,4 +113,5 @@ uv run python scripts/interrogate_real.py
 Licensed under the **[PolyForm Noncommercial License 1.0.0](LICENSE)** (`PolyForm-Noncommercial-1.0.0`).
 
 - **Free for personal, academic, research, and noncommercial use.**
-- **Commercial use requires explicit written permission** from the author (`hongrenw111@gmail.com`). Any for-profit product integration, commercial SaaS hosting, or paid skill/marketplace resale is prohibited without a separate commercial license.
+- **Commercial License ($6.99 one-time):** Purchase **[GeoShield Pro on Agensi](https://agensi.io/skills/geoshield-pro-anti-geo-injection-defense)** for commercial workflows, client consulting, internal enterprise agents, and the bundled 5-vertical Anti-GEO rule pack + due-diligence SOP.
+- **Enterprise / Custom Resale Licensing:** Contact the author (`hongrenw111@gmail.com`) for custom OEM terms, redistribution, or paid marketplace resale rights.
